@@ -7,7 +7,7 @@ how switches learn mac addresses in their mac-table and clear them automatically
 ## 📄 Detailed Explanation
 Full lab explanation with screenshots is available here:
 
-[Click to View Lab PDF](networking-fundamentals/lab 1  switching - learning mac addresses.pdf)
+[Click to View Lab PDF](lab 1  switching - learning mac addresses.pdf)
 
 ## 🧠 Concepts Covered
 - mac-table 
@@ -17,6 +17,11 @@ Full lab explanation with screenshots is available here:
   and to clear these mac-address on that switchport use command - clear port-security all
   This is mainly used to prevent switchports from mac address spoofing.
   here, switchport only means that the port is connected to a pc or end user.
+  
+## 📌 Key Outcomes
+- switches work on mac addresses
+- switch clear mac-table on its own when learned dynamically
+- you need to clear mac-table manually if configured manually
 
 ## 🛠️ Key Commands Used
 --> show mac addr - to show mac-addr table (in global config mode) 
