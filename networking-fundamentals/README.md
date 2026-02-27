@@ -7,7 +7,7 @@ how switches learn mac addresses in their mac-table and clear them automatically
 ## 📄 Detailed Explanation
 Full lab explanation with screenshots is available here:
 
-[Click to View Lab PDF](lab 1  switching - learning mac addresses.pdf)
+[Click to View Lab PDF](lab-1-switching-learning-mac-addresses.pdf)
 
 ## 🧠 Concepts Covered
 - mac-table 
